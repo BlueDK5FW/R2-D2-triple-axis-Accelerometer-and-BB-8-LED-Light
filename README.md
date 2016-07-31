@@ -23,7 +23,7 @@ D pin13:R2-D2 BLUE LED (add 120Ω resistor to the anode)
 
 Analog i/o pin:
 
-A pin 3:ADXL335 X axis
+A pin 3:ADXL335 analog Accelerometer X axis
 
 A pin 5:ADXL335 Y axis
 
@@ -31,4 +31,4 @@ A pin 7:ADXL335 Z axis
 
 3v3 PIN:connect to ADXL335 vdd
 
-5v PIN: connect to TG9e power input wire 
+5v PIN: connect to TG9e servo power input wire 
