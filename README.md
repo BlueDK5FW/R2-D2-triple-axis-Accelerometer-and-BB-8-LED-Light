@@ -23,7 +23,7 @@ D pin 13:R2-D2 BLUE LED (add 120Ω resistor to the anode)
 
 Analog i/o pin:
 
-A pin 3:ADXL335 analog Accelerometer X axis
+A pin 3:ADXL335 analog tripleaxis Accelerometer X axis
 
 A pin 5:ADXL335 Y axis
 
